@@ -1,5 +1,5 @@
-// ~~4-лаба студента IoT Яциника Святослава(IR-11)~~
-
+// ~~4-а(3) лаба студента IoT Яциника Святослава(IR-11)~~
+//change file test.......
 #include "stdafx.h"
 #include <iostream>
 #include <math.h>
